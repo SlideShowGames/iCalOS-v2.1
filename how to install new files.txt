@@ -1,0 +1,4 @@
+to install new files you must...
+1. import a defined word for copy and paste or writing it.
+2. on the menu put a extra number then a if command that uses your word.
+3. test it.
